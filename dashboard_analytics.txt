@@ -1,0 +1,1 @@
+Dashboard Spec: Load Google Maps API. Overlay Heatmap Layer (Red Zones). Fetch real-time SOS data.

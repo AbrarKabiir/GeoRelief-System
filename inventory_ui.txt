@@ -1,0 +1,1 @@
+Inventory Screen: List of items (Rice, Water). Add/Remove buttons.

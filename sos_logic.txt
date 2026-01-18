@@ -1,0 +1,1 @@
+SOS Logic: 1. Get GPS Permission. 2. Capture Lat/Long. 3. Send API Request to Police/Hospital.
